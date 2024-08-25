@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ceefe2;
+}
+header,footer{
+    background: #40eda8;
+    color: aliceblue;
+    text-align: center;
+    padding: 2px;
+}
+.na{
+    display: inline;
+    padding: 25px;
+}
+.na a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.reg{
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.empd{
+    text-align: center;
+}
+table{
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+td,th{
+    border: 1px solid;
+    padding: 5px;
+}
+.cnt{
+    text-align: center;
+}
+
